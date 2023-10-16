@@ -1,0 +1,139 @@
+{
+  "rows": 8,
+  "cols": 7,
+  "hint": "BUNGEE JUMPING",
+  "words": [
+    "HELMET",
+    "JUMP",
+    "HILL",
+    "FUN",
+    "HARNESS",
+    "ROPE",
+    "HEIGHT"
+  ],
+  "boardCharacters": [
+    [
+      "F",
+      "U",
+      "N",
+      "D",
+      "C",
+      "H",
+      "H"
+    ],
+    [
+      "D",
+      "L",
+      "J",
+      "Q",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "U",
+      "A",
+      "L",
+      "L",
+      "D",
+      "H",
+      "R"
+    ],
+    [
+      "B",
+      "G",
+      "M",
+      "I",
+      "F",
+      "G",
+      "N"
+    ],
+    [
+      "E",
+      "E",
+      "W",
+      "B",
+      "H",
+      "I",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      "M",
+      "U",
+      "J",
+      "E",
+      "S"
+    ],
+    [
+      "X",
+      "N",
+      "O",
+      "C",
+      "S",
+      "H",
+      "S"
+    ],
+    [
+      "S",
+      "P",
+      "S",
+      "R",
+      "T",
+      "K",
+      "D"
+    ]
+  ],
+  "wordPlacements": [
+    {
+      "word": "HELMET",
+      "row": 0,
+      "col": 5,
+      "h": -1,
+      "v": 1
+    },
+    {
+      "word": "JUMP",
+      "row": 5,
+      "col": 4,
+      "h": -1,
+      "v": 0
+    },
+    {
+      "word": "HILL",
+      "row": 4,
+      "col": 4,
+      "h": -1,
+      "v": -1
+    },
+    {
+      "word": "FUN",
+      "row": 0,
+      "col": 0,
+      "h": 1,
+      "v": 0
+    },
+    {
+      "word": "HARNESS",
+      "row": 0,
+      "col": 6,
+      "h": 0,
+      "v": 1
+    },
+    {
+      "word": "ROPE",
+      "row": 7,
+      "col": 3,
+      "h": -1,
+      "v": -1
+    },
+    {
+      "word": "HEIGHT",
+      "row": 6,
+      "col": 5,
+      "h": 0,
+      "v": -1
+    }
+  ]
+}
